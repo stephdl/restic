@@ -1,6 +1,6 @@
 Summary: Restic binary
 Name: restic
-Version: 0.9.1
+Version: 0.9.3
 Release: 1%{?dist}
 License: GPL
 URL: %{url_prefix}/%{name} 
